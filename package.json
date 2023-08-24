@@ -1,0 +1,10 @@
+{
+  "name": "transferAccount",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/keyring": "^12.4.2",
+    "@polkadot/util": "^12.4.2"
+  }
+}
